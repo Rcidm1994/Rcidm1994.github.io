@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Rodrigo is the best!</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/Rcidm1994/Rcidm1994.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<h1>Who am I? The biography of the great Rodrigo!!</h1>
+<a href="https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/144659800_10219428461447616_566413132628779774_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFghGy6QskNXuTFn0lUeAuMiURyaUI2wX6JRHJpQjbBfuLgIezZwrr8tSxBdEBUnD4&_nc_ohc=wNd9CzOxg2IAX-UR2p3&_nc_ht=scontent.fmex15-1.fna&oh=2c6f75095b5a81c8fd45c955300f387f&oe=606D6F1E" target="_blank"><img src="https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/144659800_10219428461447616_566413132628779774_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFghGy6QskNXuTFn0lUeAuMiURyaUI2wX6JRHJpQjbBfuLgIezZwrr8tSxBdEBUnD4&_nc_ohc=wNd9CzOxg2IAX-UR2p3&_nc_ht=scontent.fmex15-1.fna&oh=2c6f75095b5a81c8fd45c955300f387f&oe=606D6F1E", alt="What a great pic!"></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
+  初めまして！。わたしのなまえはロドリゴです。二十六さい。メキシコ人です。よろしくおねがいします！
+</p>
+<p>
+  Je suis psychologe et je suis étudiant du francais! Enchanté! Je veux habiter du PAris pour octobre parce que je vais étudier mon MBA. Je suis très content!! Qui est toi?
+</p>
+<ul>
+  <li><a href="https://www.facebook.com/RODACM" target="_blank">Here is my FB profile!</a></li>
+  <li><a href="https://www.instagram.com/ro_cid0908/" target="_blank">My IG account!</a></li>
+  <li><a href="https://www.linkedin.com/in/rodrigoalfredocidmoreno/" target="_blank">And of course my linkedin profile!</a></li>
+</ul>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rcidm1994/Rcidm1994.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
